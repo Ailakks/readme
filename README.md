@@ -1,11 +1,12 @@
-### Hi, I'm Ailakks 👋
+<img src="https://avatars.githubusercontent.com/u/93053643?v=4" alt="Discord status">
+
+### Hi, I'm Ailakks
 
 > Hi, I'm Ailakks 😊, a 15 years old Minecraft configurator & developer. I'm working on a lot of things at the same time. 🚀 I have few Discords for my different projects. Take a look to my Spigot resources! I'm from Spain, Spanish & English (with many mistakes probably).
 
 📫 Links: https://ailakks.eu/
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/725039856933404694
-                            )](https://discord.com/users/725039856933404694)
+<img src="https://lanyard-profile-readme.vercel.app/api/725039856933404694" alt="Discord status">
 
 <!--
 **Ailakks/ailakks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
