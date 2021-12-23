@@ -1,5 +1,6 @@
+<!--
 <img src="https://avatars.githubusercontent.com/u/93053643?v=4" alt="Discord status">
-
+-->
 ### Hi, I'm Ailakks
 
 > Hi, I'm Ailakks 😊, a 15 years old Minecraft configurator & developer. I'm working on a lot of things at the same time. 🚀 I have few Discords for my different projects. Take a look to my Spigot resources! I'm from Spain, Spanish & English (with many mistakes probably).
