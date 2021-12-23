@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/725039856933404694
+                            )](https://discord.com/users/725039856933404694)
+
+
 <!--
 **Ailakks/ailakks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
