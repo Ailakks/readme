@@ -3,7 +3,7 @@
 -->
 ### Hi, I'm Ailakks
 
-> Hi, I'm Ailakks 😊, I'm from Spain, a 15 years old Minecraft configurator & developer. I'm working on a lot of things at the same time. 🚀 I have few Discords for my different projects. Take a look to my Spigot resources!
+> Hi, I'm Ailakks 😊, I'm from Spain, a 16 years old Minecraft configurator & developer. I'm working on a lot of things at the same time. 🚀 I have few Discords for my different projects. Take a look to my Spigot resources!
 
 📫 Links: https://ailakks.eu/
 
