@@ -1,5 +1,3 @@
-![Alt Text](https://c.tenor.com/tslWG6iJKZgAAAAC/we-bare-bears-munch.gif)
-
 
 Hi, I'm Ailakks
 
@@ -7,7 +5,7 @@ Hi, I'm Ailakks
 
 📫 Links: https://cortmnzz.com
 
-![](https://komarev.com/ghpvc/?username=ailakks)
+![](https://c.tenor.com/tslWG6iJKZgAAAAC/we-bare-bears-munch.gif)
 
 <img src="https://lanyard-profile-readme.vercel.app/api/725039856933404694" alt="Discord status">
 
