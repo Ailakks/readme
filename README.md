@@ -1,5 +1,7 @@
-<img src="https://c.tenor.com/tslWG6iJKZgAAAAC/we-bare-bears-munch.gif">
-### Hi, I'm Ailakks
+![Alt Text](https://c.tenor.com/tslWG6iJKZgAAAAC/we-bare-bears-munch.gif)
+
+
+Hi, I'm Ailakks
 
 > Hi, I'm Ailakks 😊, I'm from Spain, a 16 years old Minecraft configurator & developer. I'm working on a lot of things at the same time. 🚀 I have few Discords for my different projects. Take a look to my Spigot resources!
 
