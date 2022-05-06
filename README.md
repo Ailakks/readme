@@ -5,8 +5,6 @@ Hi, I'm Ailakks
 
 📫 Links: https://cortmnzz.com
 
-![](https://c.tenor.com/tslWG6iJKZgAAAAC/we-bare-bears-munch.gif)
-
 <img src="https://lanyard-profile-readme.vercel.app/api/725039856933404694" alt="Discord status">
 
 <!--
