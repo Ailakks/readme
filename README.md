@@ -1,4 +1,4 @@
-<img src="https://github.com/Ailakks/ailakks/blob/main/we-are-bears.gif">
+<!--<img src="https://github.com/Ailakks/ailakks/blob/main/we-are-bears.gif">-->
 
 
 Hi, I'm Ailakks
