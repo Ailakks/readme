@@ -1,3 +1,5 @@
+<img src="https://c.tenor.com/tslWG6iJKZgAAAAC/we-bare-bears-munch.gif">
+
 <!--
 <img src="https://avatars.githubusercontent.com/u/93053643?v=4" alt="Discord status">
 -->
