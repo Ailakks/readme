@@ -1,3 +1,6 @@
+https://github.com/Ailakks/ailakks/blob/main/we-bare-bears-munch.gif
+<img src="https://github.com/Ailakks/ailakks/blob/main/we-bare-bears-munch.gif" alt="Discord status">
+
 
 Hi, I'm Ailakks
 
