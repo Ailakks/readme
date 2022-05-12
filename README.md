@@ -1,7 +1,7 @@
 <!--<img src="https://github.com/Ailakks/ailakks/blob/main/we-are-bears.gif">-->
-     <a href="http://huggle.jdf2.org/hug/ailakks">
-        <img src="http://huggle.jdf2.org/sig/ailakks.png">
-     </a>
+<a href="http://huggle.jdf2.org/hug/ailakks">
+     <img src="http://huggle.jdf2.org/sig/ailakks.png">
+</a>
 
 Hi, I'm Ailakks
 
