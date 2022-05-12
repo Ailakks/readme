@@ -1,4 +1,5 @@
 <!--<img src="https://github.com/Ailakks/ailakks/blob/main/we-are-bears.gif">-->
+<img src="https://lanyard-profile-readme.vercel.app/api/725039856933404694" alt="http://huggle.jdf2.org/hug/ailakks">
 [url=http://huggle.jdf2.org/hug/ailakks][img]http://huggle.jdf2.org/sig/ailakks.png[/img][/url]
 
 Hi, I'm Ailakks
@@ -7,7 +8,9 @@ Hi, I'm Ailakks
 
 📫 Links: https://cortmnzz.com
 
-<img src="https://lanyard-profile-readme.vercel.app/api/725039856933404694" alt="Discord status">
+<a href="http://huggle.jdf2.org/hug/ailakks">
+        <img src="http://huggle.jdf2.org/sig/ailakks.png">
+     </a>
 
 <!--
 **Ailakks/ailakks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
