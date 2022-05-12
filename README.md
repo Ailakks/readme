@@ -1,16 +1,13 @@
 <!--<img src="https://github.com/Ailakks/ailakks/blob/main/we-are-bears.gif">-->
-<img src="https://lanyard-profile-readme.vercel.app/api/725039856933404694" alt="http://huggle.jdf2.org/hug/ailakks">
-[url=http://huggle.jdf2.org/hug/ailakks][img]http://huggle.jdf2.org/sig/ailakks.png[/img][/url]
+     <a href="http://huggle.jdf2.org/hug/ailakks">
+        <img src="http://huggle.jdf2.org/sig/ailakks.png">
+     </a>
 
 Hi, I'm Ailakks
 
 > Hi, I'm Ailakks 😊, I'm from Spain, a 16 years old Minecraft configurator & developer. I'm working on a lot of things at the same time. 🚀 I have few Discords for my different projects. Take a look to my Spigot resources!
 
 📫 Links: https://cortmnzz.com
-
-<a href="http://huggle.jdf2.org/hug/ailakks">
-        <img src="http://huggle.jdf2.org/sig/ailakks.png">
-     </a>
 
 <!--
 **Ailakks/ailakks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
