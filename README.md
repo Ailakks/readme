@@ -9,7 +9,7 @@ Minecraft & Websites developer
 * ✉️  You can contact me at [hola@ailakks.com](mailto:hola@ailakks.com)
 * 🚀  I'm currently working on a lot of things at the same time :)
 * 🧠  I'm learning React & NestJS
-* 🤝  I'm open to collaborating on new projects!
+* 🤝  I'm open to collaborate on new projects!
 
 <a href="https://www.twitter.com/Ailakks" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/Ailakks?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
