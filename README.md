@@ -1,6 +1,3 @@
-![](https://hit.yhype.me/github/profile?user_id=44925968)
-<img align='left' src='https://raw.githubusercontent.com/Ailakks/ailakks-profile/master/images/image-1.png' width='10%'>
-
 # **Hey, I'm Ailakks! :D**
 
 ### **Introduction**
