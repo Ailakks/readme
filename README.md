@@ -14,7 +14,3 @@ I have also worked for several **large Minecraft servers and content creators**,
 ### **I want to learn / I'm currently learning**
 
 [![My Skills](https://skillicons.dev/icons?i=fediverse,activitypub,astro,rabbitmq,firebase,tailwind)](https://skillicons.dev)
-
-### Social links
-
-<p align="left"> <a href="https://discord.com/users/725039856933404694" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="60"/></a> <a href="https://www.github.com/ailakks" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="60"/></a> <a href="https://www.twitter.com/Ailakks" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="60"/></a> <a href="https://www.twitch.tv/ailakks" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="60"/></a></p>
