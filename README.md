@@ -9,13 +9,10 @@ I have also worked for several **large Minecraft servers and content creators**,
 
 ### **Some of my skills**
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,ts,linux,html,css,react,vue,vite,electron,express,nestjs,sqlite,mysql,mongo,redis,bots,nginx,cloudflare,grafana,git,nodejs,maven,gradle,gcp,azure,heroku,vscode,idea,postman&perline=10" />
-</p>
+[![My Skills](https://skillicons.dev/icons?i=java,js,ts,linux,html,css,react,vue,vite,electron,express,nestjs,sqlite,mysql,mongo,redis,bots,nginx,cloudflare,grafana,git,nodejs,maven,gradle,gcp,azure,heroku,vscode,idea,postman&perline=10)](https://skillicons.dev)
 
 <!-- webflow -->
 
 ### **I want to learn / I'm currently learning**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=activitypub,fediverse,astro,tailwind,docker,rabbitmq,firebase,workers,rust,kotlin" />
-</p>
+
+[![My Skills](https://skillicons.dev/icons?i=activitypub,fediverse,astro,tailwind,docker,rabbitmq,firebase,workers,rust,kotlin)](https://skillicons.dev)
