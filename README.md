@@ -29,4 +29,4 @@ I also have experience in crafting **Minecraft plugins/mods** using **PaperMC** 
 Apart from that, I work on various **personal projects**, some of which are related to **artificial intelligence**. I love exploring **new technologies** and experimenting with them to create **unique solutions** that **solve real-world problems**.
 
 ### My website
-Take a look to my personal page [HERE](https://cortmnzz.com/) (which is [open source](https://github.com/Ailakks/dotme)) and discover more about me :)
+Take a look to my personal page [HERE](https://ailakks.dev/) (which is [open source](https://github.com/Ailakks/dotme)) and discover more about me :)
