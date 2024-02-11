@@ -11,7 +11,7 @@ I have also worked for several **large Minecraft servers and content creators**,
 
 ### **Some of my skills**
 
-[![My Skills](https://skillicons.dev/icons?i=java,js,ts,linux,html,css,react,vue,nextjs,webflow,vite,electron,express,graphql,apollo,nestjs,sqlite,mysql,mongo,redis,bots,nginx,cloudflare,vercel,grafana,git,nodejs,maven,gradle,gcp,azure,heroku,vscode,idea,postman,codepen,replit&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,js,ts,linux,html,css,tailwindcss,react,vue,nextjs,webflow,vite,electron,express,graphql,apollo,nestjs,sqlite,mysql,mongo,redis,bots,nginx,cloudflare,vercel,grafana,git,nodejs,maven,gradle,gcp,azure,heroku,vscode,idea,postman,codepen,replit&perline=10)](https://skillicons.dev)
 
 ### **I have used it occasionally**
 
