@@ -11,7 +11,7 @@ I have also worked for several **large Minecraft servers and content creators**,
 
 ### **Some of my skills**
 
-[![My Skills](https://skillicons.dev/icons?i=java,js,ts,windows,linux,html,css,tailwindcss,react,vue,nextjs,webflow,vite,electron,express,graphql,apollo,nestjs,sqlite,mysql,mongo,redis,bots,nginx,cloudflare,vercel,grafana,git,github,gitlab,nodejs,npm,maven,gradle,gcp,azure,heroku,vscode,sublime,idea,webstorm,postman,codepen,replit&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,js,ts,linux,html,css,tailwindcss,react,vue,nextjs,webflow,vite,electron,express,graphql,apollo,nestjs,sqlite,mysql,mongo,redis,bots,nginx,cloudflare,workers,vercel,grafana,git,github,gitlab,nodejs,npm,maven,gradle,gcp,azure,heroku,vscode,sublime,idea,webstorm,postman,codepen,replit&perline=10)](https://skillicons.dev)
 
 ### **I have used it occasionally**
 
@@ -19,7 +19,7 @@ I have also worked for several **large Minecraft servers and content creators**,
 
 ### **I want to learn / I'm currently learning**
 
-[![My Skills](https://skillicons.dev/icons?i=activitypub,fediverse,astro,tailwind,docker,rabbitmq,firebase,workers,rust,kotlin)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=activitypub,fediverse,astro,docker,rabbitmq,firebase,rust,kotlin)](https://skillicons.dev)
 
 ### **Minecraft**
 I also have experience in crafting **Minecraft plugins/mods** using **PaperMC** (a Spigot fork, which is a Bukkit fork), **Fabric**, **BungeeCord** & **Velocity** APIs and I enjoy working with databases like **MongoDB**, **Redis**, and occasionally **MySQL**.
