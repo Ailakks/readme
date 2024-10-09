@@ -46,7 +46,7 @@ Manage chats across multiple platforms in one place, designed for major content 
 - **Technologies**: TypeScript, NestJS, MongoDB, Redis, SocketIO, React, TailwindCSS
 - **Features**:
   - Customizable layouts
-  - **Used by creators like [TheWillyrex](https://youtube.com/@thewillyrex) (50M+ followers across social platforms)**
+  - Used by creators like [TheWillyrex](https://youtube.com/@thewillyrex) (50M+ followers across social platforms)
 
 ## Ping
 Reverse-engineering Apple’s Find My network for Android devices.
