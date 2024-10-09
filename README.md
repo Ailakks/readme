@@ -21,12 +21,55 @@ I have also worked for several **large Minecraft servers and content creators**,
 
 [![My Skills](https://skillicons.dev/icons?i=activitypub,fediverse,astro,docker,rabbitmq,firebase,rust,kotlin)](https://skillicons.dev)
 
-### **Minecraft**
-I also have experience in crafting **Minecraft plugins/mods** using **PaperMC** (a Spigot fork, which is a Bukkit fork), **Fabric**, **BungeeCord** & **Velocity** APIs and I enjoy working with databases like **MongoDB**, **Redis**, and occasionally **MySQL**.
+# Projects & experiences
 
-### **Personal projects**
+## Beat Streaming
+A decentralized media player available on web and Android.
 
-Apart from that, I work on various **personal projects**, some of which are related to **artificial intelligence**. I love exploring **new technologies** and experimenting with them to create **unique solutions** that **solve real-world problems**.
+- **Technologies**: Android Studio, Java, React, NestJS, MongoDB, WebTorrent
+- **Features**:
+  - Tor, Torrent, and WebTorrent support
+  - Plugin and data synchronization on server
+  - Material Design & You native app
+  - Multimedia version for TV shows and movies (Show)
 
-### My website
-Take a look to my personal page [HERE](https://ailakks.dev/) (which is [open source](https://github.com/Ailakks/dotme)) and discover more about me :)
+## Hole Storage
+Decentralized file storage with advanced encryption and P2P sharing.
+
+- **Technologies**: TypeScript, NestJS, MongoDB, S3, WebTorrent, React, TailwindCSS
+- **Features**:
+  - Unique key encryption for each user
+  - Asymmetric encryption for file sharing
+  - Unlimited P2P file transfers
+  - Enterprise features: Invoice-to-spreadsheet conversion
+  - Open source
+
+## Grapho Streaming
+Manage chats across multiple platforms in one place, designed for major content creators.
+
+- **Technologies**: TypeScript, NestJS, MongoDB, Redis, SocketIO, React, TailwindCSS
+- **Features**:
+  - Customizable layouts
+  - **Used by creators like [TheWillyrex](https://youtube.com/@thewillyrex) (50M+ followers across social platforms)**
+
+## Ping
+Reverse-engineering Apple’s Find My network for Android devices.
+
+- **Technologies**: TypeScript, NestJS, MongoDB, Android Studio, Java
+- **Features**:
+  - Emits BLE signals to help locate devices
+  - Uses root permissions to modify MAC address
+  - Uses symmetric and asymmetric cryptography to ensure privacy
+
+## Samsung Party
+A virtual marketing experience for Samsung Spain marketing campaign.
+
+- **Technologies**: Java, Spigot, Redis, MongoDB
+- **Features**:
+  - Server synchronization and voucher code systems
+  - Open source
+
+## More projects
+- Over 50 personal projects and contributions to major content creators.
+- Collaborated with 20+ creators, totaling 100M+ followers, including 5 of the most prominent in the spanish-speaking community.
+- Full project list available on [my website](https://ailakks.dev).
