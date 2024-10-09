@@ -11,15 +11,11 @@ I have also worked for several **large Minecraft servers and content creators**,
 
 ### **Some of my skills**
 
-[![My Skills](https://skillicons.dev/icons?i=java,js,ts,linux,html,css,tailwindcss,react,vue,nextjs,webflow,vite,electron,express,graphql,apollo,nestjs,sqlite,mysql,mongo,redis,bots,nginx,cloudflare,workers,vercel,grafana,git,github,gitlab,nodejs,npm,maven,gradle,gcp,azure,heroku,vscode,sublime,idea,webstorm,postman,codepen,replit&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,androidstudio,js,ts,linux,html,css,tailwindcss,react,vue,nextjs,webflow,vite,electron,express,graphql,apollo,nestjs,sqlite,mysql,mongo,redis,bots,nginx,cloudflare,workers,vercel,grafana,git,github,gitlab,nodejs,npm,maven,gradle,gcp,azure,heroku,vscode,sublime,idea,webstorm,postman,codepen,replit&perline=10)](https://skillicons.dev)
 
 ### **I have used it occasionally**
 
-[![My Skills](https://skillicons.dev/icons?i=aws,unity,androidstudio,figma,postgres)](https://skillicons.dev)
-
-### **I want to learn / I'm currently learning**
-
-[![My Skills](https://skillicons.dev/icons?i=activitypub,fediverse,astro,docker,rabbitmq,firebase,rust,kotlin)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,unity,figma,postgres,activitypub,fediverse,astro,docker,rabbitmq,firebase,rust,kotli)](https://skillicons.dev)
 
 # Projects & experiences
 
