@@ -7,9 +7,13 @@ Apart from personal projects, I work on various **personal projects**, some of w
 
 I have also worked for several **large Minecraft servers and content creators**, where I created **games and events** that were enjoyed by **thousands of people**.
 
+> Currently working on Hole, a private file storage service & Beat, an outstanding music streaming service. **Also available for hire!**
+
 ### **Some of my skills**
 
-[![My Skills](https://skills-icons.vercel.app/api/icons?i=java,androidstudio,js,ts,linux,docker,html,css,tailwindcss,react,vue,nextjs,redux,zustand,webpack,vite,esbuild,rollupjs,swc,eslint,electron,tauri,express,nestjs,fastify,graphql,apollo,websocket,socketio,selenium,zod,sqlite,mysql,mongo,redis,prisma,drizzle,typeorm,sequelize,stripe,activitypub,fediverse,nginx,cloudflare,workers,vercel,firebase,git,github,gitlab,githubactions,nodejs,bun,npm,pnpm,maven,gradle,vscode,sublime,idea,webstorm,postman,bash,regex,markdown&perline=10)](https://github.com/syvixor/skills-icons)
+[![My Skills](https://skills-icons.vercel.app/api/icons?i=java,androidstudio,js,ts,linux,docker,html,css,tailwindcss,react,vue,nextjs,redux,zustand,webpack,vite,esbuild,rollupjs,swc,eslint,electron,tauri,express,fastify,graphql,apollo,nestjs,selenium,zod,sqlite,mysql,mongo,redis,prisma,drizzle,sequelize,stripe,activitypub,fediverse,nginx,cloudflare,workers,vercel,firebase,git,github,gitlab,githubactions,nodejs,bun,npm,pnpm,maven,gradle,vscode,sublime,idea,webstorm,postman,bash,regex,markdown&perline=10)](https://github.com/syvixor/skills-icons)
+
+[![My Skills](https://skills-icons.vercel.app/api/icons?i=windows,gpg,azure,aws,virtualbox,upstash,neon,huggingface,apache,ngrok,rabbitmq,sentry,zeabur,trpc,ionic,axios,discordjs,json,yaml,chakraui,nextui,shadcnui&perline=10)](https://github.com/syvixor/skills-icons)
 
 # Projects & experiences
 
