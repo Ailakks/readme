@@ -11,7 +11,7 @@ I have also worked for several **large Minecraft servers and content creators**,
 
 ### **Some of my skills**
 
-[![My Skills](https://skillicons.dev/icons?i=java,androidstudio,js,ts,linux,html,css,tailwindcss,react,vue,nextjs,webpack,vite,electron,express,graphql,apollo,nestjs,sqlite,mysql,mongo,redis,prisma,activitypub,fediverse,nginx,cloudflare,workers,vercel,git,github,gitlab,githubactions,nodejs,bun,npm,pnpm,maven,gradle,vscode,sublime,idea,webstorm,postman&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,androidstudio,js,ts,linux,html,css,tailwindcss,react,vue,nextjs,redux,webpack,vite,rollupjs,electron,tauri,express,graphql,apollo,nestjs,selenium,sqlite,mysql,mongo,redis,prisma,sequelize,activitypub,fediverse,nginx,cloudflare,workers,vercel,git,github,gitlab,githubactions,nodejs,bun,npm,pnpm,maven,gradle,vscode,sublime,idea,webstorm,postman,bash,regex&perline=10)](https://skillicons.dev)
 
 # Projects & experiences
 
