@@ -15,6 +15,8 @@ I have also worked for several **large Minecraft servers and content creators**,
 
 [![My Skills](https://skills-icons.vercel.app/api/icons?i=windows,gpg,azure,aws,virtualbox,upstash,neon,huggingface,apache,ngrok,rabbitmq,sentry,zeabur,trpc,ionic,axios,discordjs,json,yaml,chakraui,nextui,shadcnui&perline=10)](https://github.com/syvixor/skills-icons)
 
+[![My Skills](https://skills-icons.vercel.app/api/icons?i=java,androidstudio,js,ts,linux,docker,html,css,tailwindcss,react,vue,nextjs,redux,zustand,webpack,vite,esbuild,rollupjs,swc,eslint,electron,tauri,express,nestjs,fastify,graphql,apollo,websocket,socketio,selenium,zod,sqlite,mysql,mongo,redis,rabbitmq,prisma,drizzle,typeorm,sequelize,stripe,discordjs,activitypub,fediverse,nginx,apache,cloudflare,workers,vercel,zeabur,firebase,ngrok,git,github,gitlab,githubactions,huggingface,nodejs,bun,npm,pnpm,maven,gradle,vscode,sublime,idea,webstorm,postman,gcp,azure,aws,upstash,neon,bash,regex,json,yaml,markdown,chakraui,nextui,shadcnui&perline=15)](https://github.com/syvixor/skills-icons)
+
 # Projects & experiences
 
 ## Beat Streaming
