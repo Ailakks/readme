@@ -11,7 +11,7 @@ I have also worked for several **large Minecraft servers and content creators**,
 
 ### **Some of my skills**
 
-[![My Skills](https://skills-icons.vercel.app/api/icons?i=java,androidstudio,js,ts,linux,docker,html,css,tailwindcss,react,vue,nextjs,redux,zustand,webpack,vite,esbuild,rollupjs,swc,eslint,electron,tauri,express,fastify,graphql,apollo,nestjs,selenium,zod,sqlite,mysql,mongo,redis,prisma,drizzle,sequelize,stripe,activitypub,fediverse,nginx,cloudflare,workers,vercel,firebase,git,github,gitlab,githubactions,nodejs,bun,npm,pnpm,maven,gradle,vscode,sublime,idea,webstorm,postman,bash,regex,markdown&perline=10)](https://skillicons.dev)
+[![My Skills](https://skills-icons.vercel.app/api/icons?i=java,androidstudio,js,ts,linux,docker,html,css,tailwindcss,react,vue,nextjs,redux,zustand,webpack,vite,esbuild,rollupjs,swc,eslint,electron,tauri,express,fastify,graphql,apollo,nestjs,selenium,zod,sqlite,mysql,mongo,redis,prisma,drizzle,sequelize,stripe,activitypub,fediverse,nginx,cloudflare,workers,vercel,firebase,git,github,gitlab,githubactions,nodejs,bun,npm,pnpm,maven,gradle,vscode,sublime,idea,webstorm,postman,bash,regex,markdown&perline=10)](https://github.com/syvixor/skills-icons)
 
 # Projects & experiences
 
